@@ -3,7 +3,7 @@ import mongoose from "mongoose";
 import cors from "cors";
 import dotenv from "dotenv";
 
-import Wish from "./models/wish.js";
+import Wish from "./models/Wish.js";
 import Survey from "./models/Survey.js";
 
 dotenv.config();
